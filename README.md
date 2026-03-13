@@ -4,10 +4,13 @@ A [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) plugin 
 ## Saves
 | Category | Settings |
 |----------|----------|
-| HUD | `currently not available` |
 | Viewmodel | `viewmodel_fov`, `viewmodel_offset_x/y/z` |
 | Crosshair | Full share code |
 | Mouse | `sensitivity` |
+| HUD | `currently not available` |
+
+## Version
+1.0
 
 ## Author
 MRxMAG1C
