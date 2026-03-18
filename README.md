@@ -10,7 +10,7 @@ A [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) plugin 
 | HUD | `currently not available` |
 
 ## Version
-1.0
+1.1
 
 ## Author
 MRxMAG1C
