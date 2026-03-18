@@ -5,7 +5,7 @@ namespace UserConfigSaver;
 public class UserConfigSaverPlugin : BasePlugin, IPluginConfig<PluginConfig>
 {
     public override string ModuleName => "UserConfigSaver";
-    public override string ModuleVersion => "1.0.0";
+    public override string ModuleVersion => "1.0.1";
     public override string ModuleAuthor => "MRxMAG1C";
     public override string ModuleDescription => "Saves player CS2 configs to MySQL on connect.";
 
