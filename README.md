@@ -1,5 +1,5 @@
 # UserConfigSaver
-A [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) plugin that saves CS2 player settings to MySQL when they spawn.
+A [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) plugin that saves CS2 player settings to MySQL when they connect.
 
 ## Saves
 | Category | Settings |
